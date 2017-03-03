@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/repeattext"
+            android:icon="@drawable/main_icon"
+            android:title="Repeat Text" />
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/gioithieu_icon"
+            android:title="Giới Thiệu" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/btn_rate"
+                android:icon="@drawable/rate"
+                android:title="Rate On Google Play"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/btnout"
+        android:icon="@drawable/logout"
+        android:title="Thoát" />
+
+</menu>

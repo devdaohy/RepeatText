@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Repeat Text</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="banner_repeat_text">ca-app-pub-7492240680771442/3969284818</string>
+
+</resources>
